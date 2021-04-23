@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: "It's me, Mario!"
 permalink: /about/
 ---
 
