@@ -1,7 +1,7 @@
 main:
-  - title: ""It's me, Mario!""
+ - title: ""It's me, Mario!""
     url: /about
-  - title: "Projects"
+ - title: "Projects"
     url: /projects
   - title: "Blog"
     url: /blog
