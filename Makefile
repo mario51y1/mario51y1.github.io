@@ -6,3 +6,6 @@ build:
 
 production_build:
 	JEKYLL_ENV=production bundle exec jekyll build
+
+install:
+	bundle install

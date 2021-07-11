@@ -37,6 +37,12 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:name/
+
+
 include: ["_pages"]
 
 search: true
@@ -54,11 +60,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+      categories: blog
       read_time: true
       show_date: true
       toc: true
       toc_label: "Table of Contents"
       toc_sticky: true
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      categories: notes
 
 
 
