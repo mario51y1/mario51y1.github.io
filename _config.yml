@@ -40,7 +40,7 @@ plugins:
 collections:
   notes:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:path
 
 
 include: ["_pages"]
