@@ -1,8 +1,5 @@
 ---
-title: "a"
-id: 123456
+title: "This is a sample note"
 ---
-
-# This is a sample note
 
 How cool!

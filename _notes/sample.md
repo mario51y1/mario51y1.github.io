@@ -1,6 +1,4 @@
 ---
-id: 20210514184142
-title: "sample title umber"
 ---
 # INDEX - Robotics
 
@@ -39,9 +37,11 @@ For starting out, the major book used as a general guidance was
 
 \[\[20210408132439\]\] Computer science
 
-## References
+## Notes References
 
 \[\[20210408132311\]\] Big Index
+
+## References
 
 Matariâc, Maja J. 2007. *The Robotics Primer*. Intelligent Robotics and
 Autonomous Agents Series. Cambridge, Mass: The MIT Press.

@@ -6,5 +6,5 @@ main:
     url: /contact
   - title: "Blog"
     url: /blog
-  - title: "Notes"
+  - title: "My Notes / Zettlekasten"
     url: /notes

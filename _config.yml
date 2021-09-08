@@ -40,7 +40,7 @@ plugins:
 collections:
   notes:
     output: true
-    permalink: /:path
+    permalink: /:collection/:path
 
 
 include: ["_pages"]
@@ -59,7 +59,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       categories: blog
       read_time: true
       show_date: true
@@ -71,7 +71,7 @@ defaults:
       type: notes
     values:
       layout: single
-      read_time: true
+      read_time: false
       author_profile: false
       categories: notes
 
