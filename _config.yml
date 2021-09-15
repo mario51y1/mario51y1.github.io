@@ -70,7 +70,7 @@ defaults:
       path: ""
       type: notes
     values:
-      layout: single
+      layout: singleNote
       read_time: false
       author_profile: false
       categories: notes
