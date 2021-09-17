@@ -1,6 +1,9 @@
 serve: 
 	bundle exec jekyll serve -I -V --livereload
 
+drafts: 
+	bundle exec jekyll serve -I -V --livereload --drafts
+
 build:
 	bundle exec jekyll build -I -V
 
