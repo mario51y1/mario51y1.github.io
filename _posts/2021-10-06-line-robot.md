@@ -1,8 +1,9 @@
 ---
 title: "Building my own line-following robot won't be so hard, right?"
----
+excerpt: "Turns out, building robots it's, indeed, hard."
+date:   2021-11-06 18:00:00 +0200
 
-Turns out, building robots it's, indeed, hard.
+---
 
 Hello, my name is Mario, and in my journey to learn about the amazing area that is robotics I decided that to start it would be a good idea to create a line following robot. It is a simple robot, with few sensors and a simple task to accomplish: follow a line. But as I started to plan, research, design and build the robot, it turned out to be more and more complex, because of two things that I didn't took in consideration: my lack of knowledge on many steps of the process and my incredible passion for doing it all by myself.
 
@@ -104,9 +105,11 @@ I've had an Ender 3 Pro for a few weeks before I embarked on this journey of bui
 
 What happened was that, even though you can get a basic idea of how the program behaves and the tools that you have available, you are not going to actually learn unless you try to do something, like in photoshop. And like in photoshop, what is difficult is to actually find what is the actual **process** needed. You have some tools, you have an idea of what you want to do but you don't know what steps you should follow and using which tools because this is learn by doing, it comes with practice. It took me more hours to get to the idea of what I needed to do and how, but I ended with this design:
 
---foto modelo--
+![CAD Model 1](/assets/post00/00_line_following_robot_img_10.png)
 
-The front sensor array is attached with some screws and can be removed and change to another one, so if in the future I want to reuse the chasis I can change the sensor plate to another different thing and repurpose almost every other part. The board and bigger parts are on top of the chasis, while the motors are attached by some screws to the sides, with an on/off switch on the back of the robot.
+![CAD Model 2](/assets/post00/00_line_following_robot_img_11.png)
+
+The main body has the servos on the inside, attrached with some screws, a little block in the front for a cart wheel and the arduino, servo shield and batteries on the top part. The front sensor array is attached with some screws and can be removed and change to another one, so if in the future I want to reuse the chasis I can change the sensor plate to another different thing and repurpose almost every other part. The board and bigger parts are on top of the chasis, while the motors are attached by some screws to the sides, with an on/off switch on the back of the robot.
 
 After a few tries and some patience, I printed both parts and started to assemble the robot. Only some minor adjustements had to be made to the chasis, mainly drilling holes to pass cables to the top part, and I assembled the motors, arduino, servo shield to the body and the sensors to the front plate.
 
