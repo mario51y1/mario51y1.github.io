@@ -13,7 +13,7 @@ I'm a big advocate on sharing everything, thats why I'm publishing my notes so e
 
 I would like to address a few things, however:
 
-- First, I edit the notes using a program called [Zettlr](https://zettlr.com/), which is a cool markdown editor, and I process all the notes with some scripts that I wrote. I tried to keep everything looking good, but there may be some text looking weird that hasn't been properly formatted.
+- First, I edit the notes using a program called [Zettlr](https://zettlr.com/), which is a cool markdown editor, and I process all the notes with some scripts that I wrote. I tried to keep everything looking good, but there may be some text looking weird that hasn't been properly formatted. One thing that still is on my todo list is to properly translate the math block that use latex inside zettlr into properly displayed math, so I'm sorry for the equations that are not visible because of this.
 
 - Second, these are my notes. The structure and the way everything is organized / written is in such way that makes sense to me, which of course may not be the same for you, so there is stuff that doesn't fit the original Zettlekasten method strictly but turned out to work for me.
 
